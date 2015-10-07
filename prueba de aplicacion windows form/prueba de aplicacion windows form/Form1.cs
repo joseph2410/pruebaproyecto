@@ -16,10 +16,5 @@ namespace prueba_de_aplicacion_windows_form
         {
             InitializeComponent();
         }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("PASAME EL RON MARICON :V");
-        }
     }
 }
